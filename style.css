@@ -17,3 +17,15 @@ button {
 background-color: purple;
  color: white;
   }
+  .módulo5 {
+    color:darkolivegreen;
+    background:aquamarine;
+    border:darkgreen;
+
+  }
+  .card {
+ width: 300px;
+ padding: 20px;
+ margin: 30px;
+ border: 2px solid black;
+}
